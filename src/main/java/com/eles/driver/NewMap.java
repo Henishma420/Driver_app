@@ -50,8 +50,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class NewMap extends AppCompatActivity {
 
     private MapView mapView;
-    private double driverLat = 8.3022;//static
-    private double driverLon = 77.2231;//static
+    private double driverLat = ... ;//static
+    private double driverLon = ... ;//static
     private Button accept;
     private String requestId;
     private FirebaseAuth mAuth;
