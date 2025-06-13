@@ -24,8 +24,8 @@ public class Request extends AppCompatActivity {
 
     private List<SOSData> sosDataList = new ArrayList<>();
     private DatabaseReference dbRef;
-    private final double driverLat = 18.36;//static
-    private final double driverLon = 98.14;//static
+    private final double driverLat = ... ;//static
+    private final double driverLon = ... ;//static
     private RecyclerView recyclerView;
     private SOSAdapter sosAdapter;
 
